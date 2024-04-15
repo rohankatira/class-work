@@ -1,0 +1,51 @@
+*{
+    margin: 5px;
+    padding: 3px;
+}
+#para-1{
+    background-color: firebrick;
+    text-align: justify;
+    word-spacing: 10px;
+    color: #fff;
+    text-decoration: overline;
+    font-size: 25px;
+    text-indent: 100px;
+    font-family: "Jersey 20", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#para-2{
+    background-color: blanchedalmond;
+    text-align: justify;
+    word-spacing: 10px;
+    color: green;
+    text-decoration: underline dotted;
+    font-size: 25px;
+    text-indent: 100px;
+    font-family: "Jacquard 24", system-ui;
+    font-weight: 400;
+    font-style: normal;   
+}
+#para-3{
+    background-color: rgb(117, 87, 47);
+    text-align: justify;
+    word-spacing: 10px;
+    color: cornsilk;
+    text-decoration: underline wavy;
+    font-size: 25px;
+    text-indent: 100px;
+    
+}
+#para-4{
+    background-color: darkgoldenrod;
+    text-align: justify;
+    word-spacing: 10px;
+    color: cornsilk;
+    text-decoration: underline double;
+    font-size: 25px;
+    text-indent: 100px;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;  
+}
